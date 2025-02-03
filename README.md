@@ -4,7 +4,7 @@
 
 # Project Overview
 
-In this project, we used **E5 Large Multilingual Embedding** with an FC layer of **1028 neurons**. This architecture resulted in a major improvement in the **Macro F1 score**, which is used as a benchmark on the leaderboard for [SemEval 2025 Task 11 Track A](#).
+In this project, we used **E5 Large Multilingual Embedding** with an FC layer of **1028 neurons**. This architecture resulted in a major improvement in the **Macro F1 score**, which is used as a benchmark on the leaderboard for [SemEval 2025 Task 11 Track A](https://github.com/emotion-analysis-project/SemEval2025-task11).
 
 ## Task Description
 
