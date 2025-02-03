@@ -304,8 +304,4 @@ Below are the evaluation scores for each language track (Track A):
   - Sadness: `0.7683`
   - Surprise: `0.5086`
 
----
 
-Feel free to reach out if you have any questions or need further details.
-
----
