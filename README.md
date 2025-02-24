@@ -29,6 +29,25 @@ The datasets provided by SemEval include the following splits:
 - **Train**
 - **Test**
 - **Dev**
+# Team A Positions by Language
+
+## Below is a summary of where **Team A** appears in each language leaderboard:
+
+| Language | Position of Team A |
+|----------|--------------------|
+| amh      | 8th                |
+| ary      | 12th               |
+| chn      | 15th               |
+| deu      | 8th                |
+| eng      | 40th               |
+| esp      | 11th               |
+| hau      | 8th                |
+| hin      | 9th                |
+| mar      | 13th               |
+| orm      | 9th                |
+| ron      | 11th               |
+| rus      | 7th                |
+| ukr      | 16th               |
 
 ## Languages and Macro F1 Scores
 
